@@ -1,0 +1,16 @@
+# Ignore PyCharm project folder
+.idea/
+# Ignore Python cache
+__pycache__/
+*.pyc
+# Ignore virtual environments
+venv/
+.env/
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
